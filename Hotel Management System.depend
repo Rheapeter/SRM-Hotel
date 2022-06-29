@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643344479 source:d:\rhea\srm jee\2021\mini proj\hotel management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
